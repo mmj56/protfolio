@@ -3,3 +3,5 @@ a website about myself, build with tailwind and html. i used tailwind for the fi
 - a bit about me and myself
 - i have mentioned my hobbies here.
 - i mentioned my fav colors as well
+- i have added a navigation bar.
+- i have also added picture of a whale shark
